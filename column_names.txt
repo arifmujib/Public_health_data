@@ -1,0 +1,3 @@
+Age at first monthly period,
+Highest educational level,
+Age (first) married,
